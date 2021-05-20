@@ -4,10 +4,10 @@ future==0.17.1
 gunicorn==19.9.0
 Keras==2.2.4
 matplotlib==3.0.3
-numpy==1.16.2
+numpy==1.16.5
 opencv-python==3.4.3.18
 tensorflow==1.13.2
 jsonpickle==2.0.0
 opencv-python-headless==4.5.1.48
 requests==2.25.1
-
+wheel
