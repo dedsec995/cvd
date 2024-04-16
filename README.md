@@ -43,3 +43,7 @@ This project provides a Convolutional Neural Network (CNN) model built using Ten
 3. Upload an image using the provided interface.
 4. Click the 'Classify' button to run the image through the model.
 5. View the classification result on the web page.
+
+## Contibuting
+Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
+
