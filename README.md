@@ -25,20 +25,20 @@ This project provides a Convolutional Neural Network (CNN) model built using Ten
    git clone https://github.com/yourusername/cat-vs-dog-classifier.git
    ```
 2. Navigate to the project directory:
-```bash
-cd cvd
-```
+   ```bash
+   cd cvd
+   ```
 
 3. Install the required packages:
-```bash
-pip install -r requirements.txt
-```
+   ```bash
+   pip install -r requirements.txt
+   ```
 
 ## Usage
 1. Run the Flask application:
-```bash
-python app.py
-```
+   ```bash
+   python app.py
+   ```
 2. Open a web browser and go to http://localhost:5000.
 3. Upload an image using the provided interface.
 4. Click the 'Classify' button to run the image through the model.
